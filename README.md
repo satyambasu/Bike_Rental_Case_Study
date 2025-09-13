@@ -1,4 +1,4 @@
-### Bike_Rental_Case_Study
+### Bike Rental Case Study
 
 ## Project Overview
 This project simulates a **bike rental business** and demonstrates how SQL can be used to analyze operational data. It tracks customers, bikes, rentals, and memberships, providing actionable insights to optimize inventory, pricing, revenue, and customer engagement.
