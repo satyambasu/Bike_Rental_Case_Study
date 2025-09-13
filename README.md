@@ -3,6 +3,8 @@
 ## Project Overview
 This project simulates a **bike rental business** and demonstrates how SQL can be used to analyze operational data. It tracks customers, bikes, rentals, and memberships, providing actionable insights to optimize inventory, pricing, revenue, and customer engagement.
 
+![img alt](https://github.com/satyambasu/Bike_Rental_Case_Study/blob/a4a5f813985f03adf33db71315676be48921d016/img.jpg)
+
 ---
 
 ## Goals
